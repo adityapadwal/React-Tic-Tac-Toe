@@ -27,3 +27,7 @@ How to Play
 
 Note: This project was made to understand and build up the working/logic of react.js and does not include any CSS styling
 
+Images
+![ttt1](https://github.com/adityapadwal/React-Tic-Tac-Toe/assets/97524745/c3041cfd-cc25-48e0-a603-bb79ef75ecde)
+![ttt2](https://github.com/adityapadwal/React-Tic-Tac-Toe/assets/97524745/bc73b0b0-7dea-4c73-aaf2-5c66f36a9ee6)
+![ttt3](https://github.com/adityapadwal/React-Tic-Tac-Toe/assets/97524745/df416b6d-65f3-48cb-89e8-9e10faef6534)
