@@ -28,6 +28,11 @@ How to Play
 Note: This project was made to understand and build up the working/logic of react.js and does not include any CSS styling
 
 Images
+1. When the game begins <br />
 ![ttt1](https://github.com/adityapadwal/React-Tic-Tac-Toe/assets/97524745/c3041cfd-cc25-48e0-a603-bb79ef75ecde)
+
+2. Playing the game <br />
 ![ttt2](https://github.com/adityapadwal/React-Tic-Tac-Toe/assets/97524745/bc73b0b0-7dea-4c73-aaf2-5c66f36a9ee6)
+
+3. Player X wins the game <br />
 ![ttt3](https://github.com/adityapadwal/React-Tic-Tac-Toe/assets/97524745/df416b6d-65f3-48cb-89e8-9e10faef6534)
